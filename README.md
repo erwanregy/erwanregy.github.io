@@ -1,3 +1,3 @@
-# erwanregy.github.io
+# [erwanregy.github.io](erwanregy.github.io)
 
-My portfolio website (current WIP)
+My portfolio website. Currently a work in progress.
